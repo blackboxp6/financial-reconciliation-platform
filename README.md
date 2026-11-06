@@ -1,5 +1,7 @@
 # FinRecon — Financial Reconciliation and Exception Management Platform
 
+**Author:** Joshua Bloodymier P. Salvino
+
 **An end-to-end financial reconciliation platform designed to identify transaction discrepancies, support controlled fuzzy matching, manage financial exceptions, and generate actionable management insights.**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
