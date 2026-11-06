@@ -1,0 +1,33 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Generated reconciliation data
+data/raw/*.csv
+data/processed/*
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.bak
